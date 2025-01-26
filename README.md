@@ -1,16 +1,34 @@
 # share_wise
 
-Splitwise clone
+# description
+Split wise clone using flutter
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## How to use
 
-A few resources to get you started if this is your first Flutter project:
+To clone and run this application, you'll need [Git](https://git-scm.com/downloads)
+and [Flutter](https://flutter.dev/docs/get-started/install) installed on your computer.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Clone this repo
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+```
+gh repo clone abikkk/personal_dashboard_app
+```
+
+### Navigate to the repo
+
+```
+cd personal_dashboard_app
+```
+
+### Install dependencies
+
+```
+flutter packages get
+```
+
+### Run the app
+
+```
+flutter run
+```
