@@ -3,6 +3,18 @@
 # description
 Split wise clone using flutter
 
+# packages used
+  cupertino_icons: ^1.0.2<br/>
+  email_validator: ^2.1.17<br/>
+  http: ^0.13.5<br/>
+  animated_text_kit: ^4.2.2<br/>
+  get:<br/>
+  shared_preferences: ^2.0.15<br/>
+  modal_progress_hud_nsn: ^0.3.0<br/>
+  flutter_advanced_drawer: ^1.3.2<br/>
+  hive: ^2.2.3<br/>
+  hive_flutter: ^1.1.0<br/>
+  path_provider: ^2.0.11<br/>
 
 ## How to use
 
